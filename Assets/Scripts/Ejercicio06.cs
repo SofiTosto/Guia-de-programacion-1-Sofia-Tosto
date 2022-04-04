@@ -20,7 +20,7 @@ public class Ejercicio06 : MonoBehaviour
         else
         {
 
-            Debug.Log("El numero ingresado es impar")
+            Debug.Log("El numero ingresado es impar");
         
         }
     }
